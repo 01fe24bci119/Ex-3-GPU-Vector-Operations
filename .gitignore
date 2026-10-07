@@ -1,0 +1,39 @@
+# Compiled executables
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.lib
+*.exp
+
+# CUDA generated files
+*.cubin
+*.ptx
+*.fatbin
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+
+# VS Code
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Operating system files
+.DS_Store
+Thumbs.db
